@@ -1,6 +1,9 @@
 [SI]
-	1=0
+	@Status%=0
 [FINSI]
 [ALORS]
 	SAM("test","test1",0)
 [FINSI]
+[ALORS]
+	SAM("test,"test2",0)
+[FINALORS]
